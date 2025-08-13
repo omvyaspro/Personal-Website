@@ -1,0 +1,88 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #030303;
+    background-image: url(images/projectwallpaper.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.452);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    background-color: #0000004f;
+    height: 300px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.728);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+}
+
+body p {
+    color: #030303;
+}
+
+main p {
+    color: #ffffff;
+}
+
+.project {
+    color: #000000;
+    background-color: rgba(110, 110, 110, 0.521);
+    height: 100px;
+}

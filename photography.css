@@ -1,0 +1,101 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: #2F3035;
+    background-image: url(images/camera.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.705);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    background-color: rgba(29, 28, 29, 0.582);
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.664);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer p {
+    font-size: 10px;
+    text-align: center;
+    color: rgb(198, 198, 198);
+}
+
+.left {
+    padding-top: 20px;
+    padding-left: 300px;
+}
+
+main img {
+    padding-top: 152px;
+}
+
+.right {
+    padding-top: 20px;
+    padding-left: 645px;
+}
+
+.streetcar {
+    padding-bottom: 50px;
+    padding-left: 125px;
+}
+
+.waterfall {
+    padding-top: 20px;
+}
+
+.rabbit {
+    padding-top: 20px;
+    padding-left: 790px;
+}
